@@ -1,0 +1,149 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/galacticcouncil/intergalactic-asset-metadata/master/assets",
+  "assets": {
+    "aca": {
+      "path": "aca.svg"
+    },
+    "ape": {
+      "path": "ape.svg"
+    },
+    "astr": {
+      "path": "astr.svg"
+    },
+    "ausd": {
+      "path": "ausd.svg"
+    },
+    "bnc": {
+      "path": "bnc.svg"
+    },
+    "bndt": {
+      "path": "bndt.svg"
+    },
+    "bsx": {
+      "path": "bsx.svg"
+    },
+    "btc": {
+      "path": "btc.svg"
+    },
+    "cfg": {
+      "path": "cfg.svg"
+    },
+    "cru": {
+      "path": "cru.svg"
+    },
+    "dai": {
+      "path": "dai.svg"
+    },
+    "ded": {
+      "path": "ded.svg"
+    },
+    "dot": {
+      "path": "dot.svg"
+    },
+    "dota": {
+      "path": "dota.svg"
+    },
+    "eth": {
+      "path": "eth.svg"
+    },
+    "game": {
+      "path": "game.svg"
+    },
+    "glmr": {
+      "path": "glmr.svg"
+    },
+    "h2o": {
+      "path": "h2o.svg"
+    },
+    "hdx": {
+      "path": "hdx.svg"
+    },
+    "ibtc": {
+      "path": "ibtc.svg"
+    },
+    "intr": {
+      "path": "intr.svg"
+    },
+    "kar": {
+      "path": "kar.svg"
+    },
+    "kilt": {
+      "path": "kilt.svg"
+    },
+    "ksm": {
+      "path": "ksm.svg"
+    },
+    "ldot": {
+      "path": "ldot.svg"
+    },
+    "lrna": {
+      "path": "lrna.svg"
+    },
+    "myth": {
+      "path": "myth.svg"
+    },
+    "nodl": {
+      "path": "nodl.svg"
+    },
+    "pen": {
+      "path": "pen.svg"
+    },
+    "pha": {
+      "path": "pha.svg"
+    },
+    "pink": {
+      "path": "pink.svg"
+    },
+    "stink": {
+      "path": "stink.svg"
+    },
+    "sub": {
+      "path": "sub.svg"
+    },
+    "teer": {
+      "path": "teer.svg"
+    },
+    "tnkr": {
+      "path": "tnkr.svg"
+    },
+    "unq": {
+      "path": "unq.svg"
+    },
+    "usdc": {
+      "path": "usdc.svg"
+    },
+    "usdcet": {
+      "path": "usdcet.svg"
+    },
+    "usdt": {
+      "path": "usdt.svg"
+    },
+    "vdot": {
+      "path": "vdot.svg"
+    },
+    "vksm": {
+      "path": "vksm.svg"
+    },
+    "wbtc": {
+      "path": "wbtc.svg"
+    },
+    "weth": {
+      "path": "weth.svg"
+    },
+    "wifd": {
+      "path": "wifd.svg"
+    },
+    "wud": {
+      "path": "wud.svg"
+    },
+    "wusdt": {
+      "path": "wusdt.svg"
+    },
+    "xrt": {
+      "path": "xrt.svg"
+    },
+    "ztg": {
+      "path": "ztg.svg"
+    }
+  }
+}

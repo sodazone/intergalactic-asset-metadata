@@ -1,0 +1,89 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/galacticcouncil/intergalactic-asset-metadata/master/chains",
+  "chains": {
+    "acala": {
+      "path": "acala.svg"
+    },
+    "assethub": {
+      "path": "assethub.svg"
+    },
+    "astar": {
+      "path": "astar.svg"
+    },
+    "basilisk": {
+      "path": "basilisk.svg"
+    },
+    "bifrost": {
+      "path": "bifrost.svg"
+    },
+    "centrifuge": {
+      "path": "centrifuge.svg"
+    },
+    "crust": {
+      "path": "crust.svg"
+    },
+    "ethereum": {
+      "path": "ethereum.svg"
+    },
+    "hydradx": {
+      "path": "hydradx.svg"
+    },
+    "integritee": {
+      "path": "integritee.svg"
+    },
+    "interlay": {
+      "path": "interlay.svg"
+    },
+    "karura": {
+      "path": "karura.svg"
+    },
+    "kilt": {
+      "path": "kilt.svg"
+    },
+    "kusama-assethub": {
+      "path": "kusama-assethub.svg"
+    },
+    "kusama": {
+      "path": "kusama.svg"
+    },
+    "moonbeam": {
+      "path": "moonbeam.svg"
+    },
+    "mythos": {
+      "path": "mythos.svg"
+    },
+    "nodle": {
+      "path": "nodle.svg"
+    },
+    "pendulum": {
+      "path": "pendulum.svg"
+    },
+    "phala": {
+      "path": "phala.svg"
+    },
+    "polkadot": {
+      "path": "polkadot.svg"
+    },
+    "robonomics": {
+      "path": "robonomics.svg"
+    },
+    "statemine": {
+      "path": "statemine.svg"
+    },
+    "statemint": {
+      "path": "statemint.svg"
+    },
+    "subsocial": {
+      "path": "subsocial.svg"
+    },
+    "tinkernet": {
+      "path": "tinkernet.svg"
+    },
+    "unique": {
+      "path": "unique.svg"
+    },
+    "zeitgeist": {
+      "path": "zeitgeist.svg"
+    }
+  }
+}
