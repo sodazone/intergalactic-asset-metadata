@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/galacticcouncil/intergalactic-asset-metadata/master/assets",
-  "assets": {
+  "items": {
     "aca": {
       "path": "aca.svg"
     },

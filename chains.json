@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/galacticcouncil/intergalactic-asset-metadata/master/chains",
-  "chains": {
+  "items": {
     "acala": {
       "path": "acala.svg"
     },
