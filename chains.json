@@ -29,6 +29,9 @@
     "crust": {
       "path": "crust.svg"
     },
+    "darwinia": {
+      "path": "darwinia.svg"
+    },
     "ethereum": {
       "path": "ethereum.svg"
     },
