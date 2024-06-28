@@ -17,6 +17,9 @@
     "astr": {
       "path": "astr.svg"
     },
+    "audd.s": {
+      "path": "audds.svg"
+    },
     "ausd": {
       "path": "ausd.svg"
     },
@@ -28,6 +31,9 @@
     },
     "bork": {
       "path": "bork.svg"
+    },
+    "brl.s": {
+      "path": "brls.svg"
     },
     "bsx": {
       "path": "bsx.svg"
@@ -92,6 +98,9 @@
     "myth": {
       "path": "myth.svg"
     },
+    "ngnc.s": {
+      "path": "ngncs.svg"
+    },
     "nodl": {
       "path": "nodl.svg"
     },
@@ -128,6 +137,9 @@
     "usdcet": {
       "path": "usdcet.svg"
     },
+    "usdc.s": {
+      "path": "usdcs.svg"
+    },
     "usdt": {
       "path": "usdt.svg"
     },
@@ -151,6 +163,9 @@
     },
     "wusdt": {
       "path": "wusdt.svg"
+    },
+    "xlm.s": {
+      "path": "xlms.svg"
     },
     "xrt": {
       "path": "xrt.svg"
