@@ -1,0 +1,34 @@
+name: Add new token
+description: Add token metadata to Hydration apps
+title: "Add "
+labels: ["add-token"]
+projects: []
+assignees:
+  - jak-pan
+body:
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker
+      description: Add token ticker
+    validations:
+      required: true
+  - type: input
+    id: token-id
+    attributes:
+      label: ID
+      description: Hydration token ID
+    validations:
+      required: true
+  - type: textarea
+    id: icon
+    attributes:
+      label: Icon
+      description: Add token icon in svg format < 50Kb
+      placeholder: Click here then drag and drop icon.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting new token request.
