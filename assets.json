@@ -23,6 +23,9 @@
     "ausd": {
       "path": "ausd.svg"
     },
+    "beefy": {
+      "path": "beefy.svg"
+    },
     "bnc": {
       "path": "bnc.svg"
     },
@@ -40,6 +43,9 @@
     },
     "btc": {
       "path": "btc.svg"
+    },
+    "buns": {
+      "path": "buns.svg"
     },
     "cfg": {
       "path": "cfg.svg"
@@ -86,6 +92,9 @@
     "kilt": {
       "path": "kilt.svg"
     },
+    "kol": {
+      "path": "kolkadot.svg"
+    },
     "ksm": {
       "path": "ksm.svg"
     },
@@ -103,6 +112,9 @@
     },
     "myth": {
       "path": "myth.svg"
+    },
+    "nctr": {
+      "path": "nctr.svg"
     },
     "ngnc.s": {
       "path": "ngncs.svg"
@@ -151,6 +163,9 @@
     },
     "usdt": {
       "path": "usdt.svg"
+    },
+    "vastr": {
+      "path": "vastr.svg"
     },
     "vdot": {
       "path": "vdot.svg"
