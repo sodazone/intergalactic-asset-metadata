@@ -92,6 +92,12 @@
     "ldot": {
       "path": "ldot.svg"
     },
+    "lfg": {
+      "path": "ldot.png"
+    },
+    "love": {
+      "path": "ldot.png"
+    },
     "lrna": {
       "path": "lrna.svg"
     },
@@ -103,6 +109,9 @@
     },
     "nodl": {
       "path": "nodl.svg"
+    },
+    "ok": {
+      "path": "ok.svg"
     },
     "pen": {
       "path": "pen.svg"
