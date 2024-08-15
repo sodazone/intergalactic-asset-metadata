@@ -21,8 +21,8 @@ body:
   - type: textarea
     id: icon
     attributes:
-      label: Icon
-      description: Add token icon in svg format < 50Kb
+      label: Icon SVG or PNG < 30kb 128x128
+      description: Add token icon in png or svg format < 30Kb 
       placeholder: Click here then drag and drop icon.
     validations:
       required: true
