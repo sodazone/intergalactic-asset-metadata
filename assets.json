@@ -47,14 +47,26 @@
     "buns": {
       "path": "buns.svg"
     },
+    "cdog": {
+      "path": "cdog.png"
+    },
     "cfg": {
       "path": "cfg.svg"
+    },
+    "china": {
+      "path": "china.png"
+    },
+    "cpcoin": {
+      "path": "cpcoin.png"
     },
     "cru": {
       "path": "cru.svg"
     },
     "dai": {
       "path": "dai.svg"
+    },
+    "damn": {
+      "path": "damn.png"
     },
     "ded": {
       "path": "ded.svg"
@@ -110,8 +122,14 @@
     "lrna": {
       "path": "lrna.svg"
     },
+    "mcp": {
+      "path": "mcp.svg"
+    },
     "myth": {
       "path": "myth.svg"
+    },
+    "mrshe": {
+      "path": "mrshe.png"
     },
     "nctr": {
       "path": "nctr.svg"
@@ -121,6 +139,9 @@
     },
     "nodl": {
       "path": "nodl.svg"
+    },
+    "lurpis": {
+      "path": "lurpis.png"
     },
     "ok": {
       "path": "ok.svg"
@@ -134,8 +155,14 @@
     "pink": {
       "path": "pink.svg"
     },
+    "pm": {
+      "path": "pm.png"
+    },
     "ring": {
       "path": "ring.svg"
+    },
+    "santa": {
+      "path": "santa.png"
     },
     "stink": {
       "path": "stink.svg"
@@ -145,6 +172,9 @@
     },
     "teer": {
       "path": "teer.svg"
+    },
+    "tm": {
+      "path": "tm.png"
     },
     "tnkr": {
       "path": "tnkr.svg"
@@ -181,6 +211,9 @@
     },
     "wifd": {
       "path": "wifd.svg"
+    },
+    "wolf": {
+      "path": "wolf.png"
     },
     "wud": {
       "path": "wud.png"
