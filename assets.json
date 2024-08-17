@@ -152,6 +152,9 @@
     "pha": {
       "path": "pha.svg"
     },
+    "pigs": {
+      "path": "pigs.png"
+    },
     "pink": {
       "path": "pink.svg"
     },
@@ -169,6 +172,9 @@
     },
     "sub": {
       "path": "sub.svg"
+    },
+    "tdc": {
+      "path": "tdc.png"
     },
     "teer": {
       "path": "teer.svg"
@@ -220,6 +226,9 @@
     },
     "wusdt": {
       "path": "wusdt.svg"
+    },
+    "xcms": {
+      "path": "xcms.png"
     },
     "xlm.s": {
       "path": "xlms.svg"
