@@ -23,6 +23,9 @@
     "ausd": {
       "path": "ausd.svg"
     },
+    "b": {
+      "path": "b.png"
+    },
     "beefy": {
       "path": "beefy.svg"
     },
@@ -77,6 +80,9 @@
     "dota": {
       "path": "dota.svg"
     },
+    "dts": {
+      "path": "dts.png"
+    },
     "eth": {
       "path": "eth.svg"
     },
@@ -85,6 +91,12 @@
     },
     "glmr": {
       "path": "glmr.svg"
+    },
+    "gwif": {
+      "path": "gwif.png"
+    },
+    "h@sh": {
+      "path": "h@sh.png"
     },
     "h2o": {
       "path": "h2o.svg"
@@ -128,6 +140,9 @@
     "myth": {
       "path": "myth.svg"
     },
+    "mode": {
+      "path": "mode.png"
+    },
     "mrshe": {
       "path": "mrshe.png"
     },
@@ -137,14 +152,23 @@
     "ngnc.s": {
       "path": "ngncs.svg"
     },
+    "nin": {
+      "path": "nin.png"
+    },
     "nodl": {
       "path": "nodl.svg"
+    },
+    "lucky": {
+      "path": "lucky.png"
     },
     "lurpis": {
       "path": "lurpis.png"
     },
     "ok": {
       "path": "ok.svg"
+    },
+    "pad": {
+      "path": "pad.png"
     },
     "pen": {
       "path": "pen.svg"
@@ -166,6 +190,9 @@
     },
     "santa": {
       "path": "santa.png"
+    },
+    "shit": {
+      "path": "shit.svg"
     },
     "stink": {
       "path": "stink.svg"
@@ -208,6 +235,9 @@
     },
     "vksm": {
       "path": "vksm.svg"
+    },
+    "vor": {
+      "path": "vor.png"
     },
     "wbtc": {
       "path": "wbtc.svg"
