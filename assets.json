@@ -74,6 +74,12 @@
     "ded": {
       "path": "ded.svg"
     },
+    "dio": {
+      "path": "dio.png"
+    },
+    "don": {
+      "path": "don.png"
+    },
     "dot": {
       "path": "dot.svg"
     },
@@ -202,6 +208,9 @@
     },
     "sub": {
       "path": "sub.svg"
+    },
+    "tate": {
+      "path": "tate.png"
     },
     "tdc": {
       "path": "tdc.png"
