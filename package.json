@@ -1,7 +1,7 @@
 {
   "name": "assets",
   "scripts": {
-    "build": "node update-metadata.cjs"
+    "sync:v2": "node sync-v2.cjs"
   },
   "devDependencies": {
     "node": "^21.6.0"

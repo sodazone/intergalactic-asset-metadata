@@ -8,13 +8,16 @@ const TEMPLATE = {
     jsDelivr: "https://cdn.jsdelivr.net/gh",
     statically: "https://cdn.statically.io/gh",
   },
+  path: "v2",
   repository: "galacticcouncil/intergalactic-asset-metadata",
   items: [],
 };
 
 const getResource = (network, predicate) => {
   try {
-    const files = fs.readdirSync(network, { recursive: true });
+    const files = fs.readdirSync(TEMPLATE.path + "/" + network, {
+      recursive: true,
+    });
     const assets = files.filter((path) => predicate(path));
     return assets
       .filter((path) => /.(jpg|png|svg)$/.test(path))
