@@ -5,7 +5,7 @@
     "jsDelivr": "https://cdn.jsdelivr.net/gh",
     "statically": "https://cdn.statically.io/gh"
   },
-  "path": "assets",
+  "path": "v1/assets",
   "repository": "galacticcouncil/intergalactic-asset-metadata",
   "items": {
     "aca": {

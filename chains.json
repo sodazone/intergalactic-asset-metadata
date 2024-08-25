@@ -5,7 +5,7 @@
     "jsDelivr": "https://cdn.jsdelivr.net/gh",
     "statically": "https://cdn.statically.io/gh"
   },
-  "path": "chains",
+  "path": "v1/chains",
   "repository": "galacticcouncil/intergalactic-asset-metadata",
   "items": {
     "acala": {

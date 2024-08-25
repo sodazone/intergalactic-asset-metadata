@@ -1,0 +1,30 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com",
+  "branch": "master",
+  "cdn": {
+    "jsDelivr": "https://cdn.jsdelivr.net/gh",
+    "statically": "https://cdn.statically.io/gh"
+  },
+  "repository": "galacticcouncil/intergalactic-asset-metadata",
+  "items": [
+    "ethereum/1/icon.svg",
+    "polkadot/0/icon.svg",
+    "polkadot/1000/icon.svg",
+    "polkadot/2004/icon.svg",
+    "polkadot/2006/icon.svg",
+    "polkadot/2008/icon.svg",
+    "polkadot/2026/icon.svg",
+    "polkadot/2030/icon.svg",
+    "polkadot/2031/icon.svg",
+    "polkadot/2032/icon.svg",
+    "polkadot/2034/icon.svg",
+    "polkadot/2035/icon.svg",
+    "polkadot/2037/icon.svg",
+    "polkadot/2046/icon.svg",
+    "polkadot/2086/icon.svg",
+    "polkadot/2092/icon.svg",
+    "polkadot/2094/icon.svg",
+    "polkadot/2101/icon.svg",
+    "polkadot/3369/icon.svg"
+  ]
+}

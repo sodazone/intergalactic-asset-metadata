@@ -1,0 +1,9 @@
+{
+  "name": "assets",
+  "scripts": {
+    "build": "node update-metadata.cjs"
+  },
+  "devDependencies": {
+    "node": "^21.6.0"
+  }
+}
