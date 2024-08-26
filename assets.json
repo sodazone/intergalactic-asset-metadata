@@ -11,6 +11,9 @@
     "aca": {
       "path": "aca.svg"
     },
+    "alpha": {
+      "path": "alpha.png"
+    },
     "ape": {
       "path": "ape.svg"
     },
@@ -25,6 +28,9 @@
     },
     "b": {
       "path": "b.png"
+    },
+    "bbq": {
+      "path": "bbq.png"
     },
     "beefy": {
       "path": "beefy.svg"
@@ -92,6 +98,9 @@
     "dts": {
       "path": "dts.png"
     },
+    "duw": {
+      "path": "duw.png"
+    },
     "eth": {
       "path": "eth.svg"
     },
@@ -112,6 +121,9 @@
     },
     "hdx": {
       "path": "hdx.svg"
+    },
+    "hello": {
+      "path": "hello.png"
     },
     "ibtc": {
       "path": "ibtc.svg"
@@ -173,6 +185,9 @@
     "lurpis": {
       "path": "lurpis.png"
     },
+    "maxcat": {
+      "path": "maxcat.png"
+    },
     "ok": {
       "path": "ok.svg"
     },
@@ -193,6 +208,9 @@
     },
     "pm": {
       "path": "pm.png"
+    },
+    "ridemy": {
+      "path": "ridemy.png"
     },
     "ring": {
       "path": "ring.svg"
@@ -239,6 +257,9 @@
     "usdt": {
       "path": "usdt.svg"
     },
+    "v": {
+      "path": "v.png"
+    },
     "vastr": {
       "path": "vastr.svg"
     },
@@ -265,6 +286,9 @@
     },
     "wud": {
       "path": "wud.png"
+    },
+    "wudfud": {
+      "path": "wudfud.png"
     },
     "wusdt": {
       "path": "wusdt.svg"
