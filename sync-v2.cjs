@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const SUPPORTED_NETWORKS = ["polkadot", "ethereum", "kusama"];
+const SUPPORTED_NETWORKS = ["polkadot", "ethereum", "kusama", "paseo"];
 const TEMPLATE = {
   baseUrl: "https://raw.githubusercontent.com",
   branch: "master",
@@ -9,7 +9,7 @@ const TEMPLATE = {
     statically: "https://cdn.statically.io/gh",
   },
   path: "v2",
-  repository: "galacticcouncil/intergalactic-asset-metadata",
+  repository: "sodazone/intergalactic-asset-metadata",
   items: [],
 };
 

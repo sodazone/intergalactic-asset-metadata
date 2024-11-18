@@ -6,9 +6,13 @@
     "statically": "https://cdn.statically.io/gh"
   },
   "path": "v2",
-  "repository": "galacticcouncil/intergalactic-asset-metadata",
+  "repository": "sodazone/intergalactic-asset-metadata",
   "items": [
     "ethereum/1/icon.svg",
+    "kusama/0/icon.svg",
+    "kusama/1000/icon.png",
+    "paseo/0/icon.png",
+    "paseo/1000/icon.png",
     "polkadot/0/icon.svg",
     "polkadot/1000/icon.svg",
     "polkadot/2000/icon.svg",
