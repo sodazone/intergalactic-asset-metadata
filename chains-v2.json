@@ -11,7 +11,9 @@
     "ethereum/1/icon.svg",
     "ethereum/11155111/icon.svg",
     "kusama/0/icon.png",
+    "kusama/0/icon.svg",
     "kusama/1000/icon.png",
+    "kusama/1000/icon.svg",
     "paseo/0/icon.png",
     "paseo/1000/icon.png",
     "polkadot/0/icon.svg",
@@ -33,6 +35,8 @@
     "polkadot/2092/icon.svg",
     "polkadot/2094/icon.svg",
     "polkadot/2101/icon.svg",
-    "polkadot/3369/icon.svg"
+    "polkadot/3369/icon.svg",
+    "polkadot/3370/icon.svg",
+    "solana/101/icon.svg"
   ]
 }
