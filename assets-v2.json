@@ -8,6 +8,7 @@
   "path": "v2",
   "repository": "galacticcouncil/intergalactic-asset-metadata",
   "items": [
+    "ethereum/1/assets/0x0000000000000000000000000000000000000000/icon.svg",
     "ethereum/1/assets/0x18084fba666a33d37592fa2633fd49a74dd93a88/icon.svg",
     "ethereum/1/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/icon.svg",
     "ethereum/1/assets/0x514910771af9ca656af840dff83e8264ecf986ca/icon.png",
