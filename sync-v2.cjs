@@ -20,7 +20,7 @@ const getResource = (network, predicate) => {
     });
     const assets = files.filter((path) => predicate(path));
     return assets
-      .filter((path) => /.(jpg|png|svg)$/.test(path))
+      .filter((path) => /.(jpg|png|svg|webp)$/.test(path))
       .map((i) => network + "/" + i);
   } catch (err) {
     console.error(err);
