@@ -199,6 +199,8 @@
     "polkadot/2031/assets/native/icon.svg",
     "polkadot/2032/assets/foreignasset/13/icon.svg",
     "polkadot/2032/assets/foreignasset/2/icon.svg",
+    "polkadot/2032/assets/native/ibtc/icon.svg",
+    "polkadot/2032/assets/native/icon.svg",
     "polkadot/2032/assets/token/dot/icon.svg",
     "polkadot/2032/assets/token/ibtc/icon.svg",
     "polkadot/2032/assets/token/intr/icon.svg",
@@ -388,6 +390,7 @@
     "polkadot/2094/assets/native/icon.svg",
     "polkadot/2094/assets/stellarnative/icon.svg",
     "polkadot/2101/assets/native/icon.svg",
+    "polkadot/2104/assets/native/icon.svg",
     "polkadot/3369/assets/native/icon.svg",
     "solana/101/assets/SOL/icon.svg"
   ]
