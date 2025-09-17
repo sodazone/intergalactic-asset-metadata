@@ -170,6 +170,7 @@
     "polkadot/2000/assets/token/ldot/icon.svg",
     "polkadot/2004/assets/0x0000000000000000000000000000000000000802/icon.svg",
     "polkadot/2004/assets/0x06e605775296e851ff43b4daa541bb0984e9d6fd/icon.svg",
+    "polkadot/2004/assets/0x484eCCE6775143D3335Ed2C7bCB22151C53B9F49/icon.svg",
     "polkadot/2004/assets/0x931715fee2d06333043d11f658c8ce934ac61d0c/icon.svg",
     "polkadot/2004/assets/0x99fec54a5ad36d50a4bba3a41cab983a5bb86a7d/icon.svg",
     "polkadot/2004/assets/0xab3f0245b83feb11d15aaffefd7ad465a59817ed/icon.svg",
@@ -396,6 +397,7 @@
     "polkadot/2101/assets/native/icon.svg",
     "polkadot/2104/assets/native/icon.svg",
     "polkadot/3369/assets/native/icon.svg",
-    "solana/101/assets/SOL/icon.svg"
+    "solana/101/assets/SOL/icon.svg",
+    "sui/0x35834a8a/assets/SUI/icon.svg"
   ]
 }
