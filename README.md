@@ -15,3 +15,10 @@ To purge the asset cache use:
 ```
 https://www.jsdelivr.com/tools/purge
 ```
+
+URLs
+```
+https://cdn.jsdelivr.net/gh/sodazone/intergalactic-asset-metadata/chains-v2.json
+https://cdn.jsdelivr.net/gh/sodazone/intergalactic-asset-metadata/assets-v2.json
+https://cdn.jsdelivr.net/gh/sodazone/intergalactic-asset-metadata/v2/
+```
