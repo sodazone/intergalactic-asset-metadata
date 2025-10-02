@@ -9,7 +9,9 @@
   "repository": "sodazone/intergalactic-asset-metadata",
   "items": [
     "ethereum/1/icon.svg",
+    "ethereum/10/icon.svg",
     "ethereum/11155111/icon.svg",
+    "ethereum/8453/icon.svg",
     "kusama/0/icon.png",
     "kusama/0/icon.svg",
     "kusama/1000/icon.png",

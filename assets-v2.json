@@ -29,6 +29,8 @@
     "ethereum/1/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.svg",
     "ethereum/1/assets/native/icon.svg",
     "ethereum/11155111/assets/0xfff9976782d46cc05630d1f6ebab18b2324d6b14/icon.svg",
+    "ethereum/8453/assets/0xa88594d404727625a9437c3f886c7643872296ae/icon.svg",
+    "ethereum/8453/assets/native/icon.svg",
     "kusama/0/assets/0/icon.svg",
     "kusama/0/assets/native/icon.png",
     "kusama/1000/assets/0/icon.svg",
@@ -171,9 +173,11 @@
     "polkadot/2004/assets/0x0000000000000000000000000000000000000802/icon.svg",
     "polkadot/2004/assets/0x06e605775296e851ff43b4daa541bb0984e9d6fd/icon.svg",
     "polkadot/2004/assets/0x484ecce6775143d3335ed2c7bcb22151c53b9f49/icon.svg",
+    "polkadot/2004/assets/0x511ab53f793683763e5a8829738301368a2411e3/icon.svg",
     "polkadot/2004/assets/0x931715fee2d06333043d11f658c8ce934ac61d0c/icon.svg",
     "polkadot/2004/assets/0x99fec54a5ad36d50a4bba3a41cab983a5bb86a7d/icon.svg",
     "polkadot/2004/assets/0xab3f0245b83feb11d15aaffefd7ad465a59817ed/icon.svg",
+    "polkadot/2004/assets/0xacc15dc74880c9944775448304b263d191c6077f/icon.svg",
     "polkadot/2004/assets/0xc30e9ca94cf52f3bf5692aacf81353a27052c46f/icon.svg",
     "polkadot/2004/assets/0xda430218862d3db25de9f61458645dde49a9e9c1/icon.svg",
     "polkadot/2004/assets/0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d/icon.svg",
@@ -398,6 +402,10 @@
     "polkadot/2104/assets/native/icon.svg",
     "polkadot/3369/assets/native/icon.svg",
     "solana/101/assets/SOL/icon.svg",
-    "sui/0x35834a8a/assets/SUI/icon.svg"
+    "solana/101/assets/native/icon.svg",
+    "solana/101/assets/so11111111111111111111111111111111111111112/icon.svg",
+    "sui/0x35834a8a/assets/0x9258181f5ceac8dbffb7030890243caed69a9599d2886d957a9cb7656af3bdb3/icon.svg",
+    "sui/0x35834a8a/assets/SUI/icon.svg",
+    "sui/0x35834a8a/assets/native/icon.svg"
   ]
 }
