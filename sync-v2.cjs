@@ -1,6 +1,15 @@
 const fs = require("fs");
 
-const SUPPORTED_NETWORKS = ["polkadot", "ethereum", "solana", "kusama", "paseo", "sui", "wormhole"];
+const SUPPORTED_NETWORKS = [
+  "polkadot",
+  "ethereum",
+  "solana",
+  "kusama",
+  "paseo",
+  "sui",
+  "wormhole",
+  "aptos",
+];
 const TEMPLATE = {
   baseUrl: "https://raw.githubusercontent.com",
   branch: "master",
@@ -36,7 +45,7 @@ const writeResource = (name, predicate) => {
   const resourcesJson = JSON.stringify(
     { ...TEMPLATE, items: resources },
     null,
-    2
+    2,
   );
   fs.writeFileSync(name, resourcesJson);
 };

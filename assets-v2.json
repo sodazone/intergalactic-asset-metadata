@@ -8,6 +8,9 @@
   "path": "v2",
   "repository": "sodazone/intergalactic-asset-metadata",
   "items": [
+    "aptos/1/assets/0x000000000000000000000000000000000000000000000000000000000000000a/icon.svg",
+    "aptos/1/assets/0xa867703f5395cb2965feb7ebff5cdf39b771fc6156085da3ae4147a00be91b38/icon.svg",
+    "aptos/1/assets/native/icon.svg",
     "ethereum/1/assets/0x0000000000000000000000000000000000000000/icon.svg",
     "ethereum/1/assets/0x18084fba666a33d37592fa2633fd49a74dd93a88/icon.svg",
     "ethereum/1/assets/0x196c20da81fbc324ecdf55501e95ce9f0bd84d14/icon.svg",
