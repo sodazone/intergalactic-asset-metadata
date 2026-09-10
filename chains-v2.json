@@ -18,6 +18,7 @@
     "ethereum/42220/icon.svg",
     "ethereum/43114/icon.svg",
     "ethereum/56/icon.svg",
+    "ethereum/4663/icon.svg",
     "ethereum/8453/icon.png",
     "ethereum/8453/icon.svg",
     "kusama/0/icon.png",
@@ -29,6 +30,7 @@
     "kusama/1005/icon.svg",
     "paseo/0/icon.png",
     "paseo/1000/icon.png",
+    "near/near/icon.svg",
     "polkadot/0/icon.svg",
     "polkadot/1000/icon.svg",
     "polkadot/1002/icon.svg",
@@ -60,6 +62,7 @@
     "polkadot/3370/icon.svg",
     "solana/101/icon.svg",
     "sui/0x35834a8a/icon.svg",
-    "wormhole/1/icon.svg"
+    "wormhole/1/icon.svg",
+    "zcash/zec/icon.svg"
   ]
 }

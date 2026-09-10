@@ -9,6 +9,9 @@ const SUPPORTED_NETWORKS = [
   "sui",
   "wormhole",
   "aptos",
+  "sui",
+  "near",
+  "zcash",
 ];
 const TEMPLATE = {
   baseUrl: "https://raw.githubusercontent.com",
@@ -38,8 +41,7 @@ const getResource = (network, predicate) => {
 };
 
 const writeResource = (name, predicate) => {
-  const resources = SUPPORTED_NETWORKS.map((n) => getResource(n, predicate))
-    .flat()
+  const resources = SUPPORTED_NETWORKS.flatMap((n) => getResource(n, predicate))
     .sort();
 
   const resourcesJson = JSON.stringify(
